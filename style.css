@@ -772,7 +772,10 @@
 		no-repeat center top /cover;
 		height: 850px;
 		width: 1600px;
-	
+	}
+	.main-text {
+		padding-top: 150px;
+		padding-left: 50px;
 	}
 	.logo {
 		padding-left: 50px;

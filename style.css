@@ -755,7 +755,9 @@
   .topnav.responsive {
 	  
   }
-
+.com_logo3 {
+	display: none;
+}
 
   @media (max-width:767px ) {
 	.button {
@@ -779,6 +781,13 @@
 	}
 	.logo {
 		padding-left: 50px;
+	}
+	.companies_logo {
+		display: none;
+	}
+	.com_logo3 {
+		display: flex;
+		justify-content: center;
 	}
   }
   

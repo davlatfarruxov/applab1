@@ -3,11 +3,19 @@
 	margin: 0;
 	font-family: sans-serif ;
 }
+@media (max-width:667px ) {
+	.media_best {
+		display: inline-block;
+	}
+}
 .bg-image {
     background: url(img/Homepag.png)
 	no-repeat center top /cover;
     height: 850px;
 	width: 1600px;
+}
+.media_best {
+	display: none;
 }
 .container {
 	width: 1170px;
@@ -744,7 +752,9 @@
 	  text-align: left;
 	}
   }
-
+  .topnav.responsive {
+	  
+  }
 
 
   @media (max-width:667px ) {
@@ -758,7 +768,11 @@
 		width: 677px;
 	}
 	.bg-image {
-		width: 667px;
+		
+	
+	}
+	.logo {
+		padding-left: 50px;
 	}
   }
   

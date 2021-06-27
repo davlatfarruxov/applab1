@@ -789,5 +789,28 @@
 		display: flex;
 		justify-content: center;
 	}
+	#header{
+		background: #fdfdfe;
+	}
+	.features_phone {
+		display: none;
+	}
+	.features_h1 h1 , .features_h1 p{
+		text-align: center;
+	}
+	.Fast_Performance {
+		display: block;
+		text-align: center;
+	}
+	.Fast_Performance img{
+		padding-left: 325.5px;
+	}
+	..Fast_Performance h6  {
+		font-size: 20pt;
+		color: #f55767;
+	}             
+	.Fast_Performance p, .Prototyping p, .Vector_Editing p{
+		font-size: 16pt;
+		color: #616368;
+	}
   }
-  

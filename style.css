@@ -757,7 +757,7 @@
   }
 
 
-  @media (max-width:667px ) {
+  @media (max-width:767px ) {
 	.button {
 		display: none;
 	}
@@ -768,7 +768,10 @@
 		width: 677px;
 	}
 	.bg-image {
-		
+		background: url()
+		no-repeat center top /cover;
+		height: 850px;
+		width: 1600px;
 	
 	}
 	.logo {

@@ -751,5 +751,8 @@
 	.button {
 		display: none;
 	}
+	.container2 {
+		width: 767px;
+	}
   }
   

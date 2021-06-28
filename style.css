@@ -822,3 +822,25 @@
 		padding-right: 30px;
 	}
   }
+.topnav2 {
+	display: flex;
+	overflow: hidden;
+}
+.topnav2  a{
+	color: #fff;
+	text-decoration: none;
+	display: inline-block;
+	padding-top: 20px;
+	font-size: 16pt;
+	padding-right: 15px;
+	padding-left: 15px;
+	float: left;
+	display: block;
+	text-align: center;
+}
+.menu2 {
+	padding-top: 95px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

@@ -813,8 +813,8 @@
 	}
 	.smart_jackpot h1 {
 		text-align: center;
-		padding-left: 80px;
-		padding-right: 60px;
+		padding: left 90px;
+		padding-right: 70px;
 	}
 	.line_1 {
 		display: none;
@@ -830,10 +830,18 @@
 	}
 	.Network_Effect{
 		padding: 0;
+		padding-top: 50px;
+		padding-bottom: 50px;
 	}
 	.jackpot_log {
 		margin: auto;
 		width: 90px;
+	}
+	.designed_logo {
+		display: none;
+	}
+	.designed {
+		padding: 0;
 	}
   }
 .topnav2 {

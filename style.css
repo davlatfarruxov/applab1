@@ -801,25 +801,12 @@
 	.features_h1 h1 , .features_h1 p{
 		text-align: center;
 	}
-	.Fast_Performance {
-		display: block;
-		text-align: center;
-	}
-	.Fast_Performance img{
-		padding-left: 275.5px;
-	}
-	.Fast_Performance h6  {
-		font-size: 20pt;
-		color: #f55767;
-	}             
-	.Fast_Performance p, .Prototyping p, .Vector_Editing p{
-		font-size: 16pt;
-		color: #616368;
-		padding-top: 20px;
-		padding-left: 20px;
-	}
+	
 	.increase {
 		padding-right: 30px;
+	}
+	.container3 {
+		width: 677px;
 	}
   }
 .topnav2 {

@@ -85,6 +85,9 @@
 	color: #242f51;
 	padding-bottom: 25px;
 }
+.increase {
+	padding-right: 700px;
+}
 .increase p {
 	color: #616368;
 	font-size: 18pt;
@@ -803,14 +806,19 @@
 		text-align: center;
 	}
 	.Fast_Performance img{
-		padding-left: 325.5px;
+		padding-left: 275.5px;
 	}
-	..Fast_Performance h6  {
+	.Fast_Performance h6  {
 		font-size: 20pt;
 		color: #f55767;
 	}             
 	.Fast_Performance p, .Prototyping p, .Vector_Editing p{
 		font-size: 16pt;
 		color: #616368;
+		padding-top: 20px;
+		padding-left: 20px;
+	}
+	.increase {
+		padding-right: 30px;
 	}
   }

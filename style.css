@@ -808,6 +808,33 @@
 	.container3 {
 		width: 677px;
 	}
+	.smart_jackpot {
+		display: block;
+	}
+	.smart_jackpot h1 {
+		text-align: center;
+		padding-left: 80px;
+		padding-right: 60px;
+	}
+	.line_1 {
+		display: none;
+	}
+	.jackpot_text {
+		text-align: center;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.jackpot_logo {
+		display: block;
+		text-align: center;
+	}
+	.Network_Effect{
+		padding: 0;
+	}
+	.jackpot_log {
+		margin: auto;
+		width: 90px;
+	}
   }
 .topnav2 {
 	display: flex;

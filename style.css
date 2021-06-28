@@ -965,6 +965,9 @@
 	.features {
 		padding-top: 50px;
 	}
+	.jackpot_logo {
+		padding-left: 0;
+	}
 }
 .topnav2 {
 	display: flex;

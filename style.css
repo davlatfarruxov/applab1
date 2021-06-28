@@ -755,9 +755,7 @@
 	  text-align: left;
 	}
   }
-  .topnav.responsive {
-	  
-  }
+
 .com_logo3 {
 	display: none;
 }
@@ -840,8 +838,53 @@
 	.designed_logo {
 		display: none;
 	}
-	.designed {
+	.designed{
 		padding: 0;
+	}
+	.line_6 {
+		border: 1px solid #f4f4f4;
+		height: 1px;
+		width: 100%;
+		background: #f4f4f4;
+		margin: 0 auto;
+	} 
+	.designed_text{
+		padding-top: 50px;
+	}
+	.Bigger_Rewards_Method {
+		padding-bottom: 50px;
+	}
+	.our_app_text {
+		padding-left: 70px;
+		text-align: center;
+
+	}
+	.our_app_text h1{
+		padding-left: 40px;
+	}
+	.our_app_media {
+		display: block;
+	}
+	.our_app_logo1{
+		display: none;
+	}
+	.our_logo2 {
+		display: flex;
+		justify-content: center;
+	}
+	.our_logo2 img{
+		margin: 0;
+	}
+	.our_app {
+		text-align: center;
+	}
+	.ultimate_features_logo {
+		display: none;
+	}
+	.ultimate_features {
+		text-align: center;
+		padding: 0;
+		margin: 0;
 	}
   }
 .topnav2 {
@@ -856,7 +899,7 @@
 	font-size: 16pt;
 	padding-right: 15px;
 	padding-left: 15px;
-	float: left;
+	
 	display: block;
 	text-align: center;
 }
@@ -865,4 +908,9 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+@media (min-width:1000px ) {
+	.our_app_media {
+		display: none;
+	}
 }

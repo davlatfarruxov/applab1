@@ -973,6 +973,9 @@
 	.jackpot_logo {
 		padding-left: 0;
 	}
+	.footer .logo img {
+		display: none;
+	}
 }
 .topnav2 {
 	display: flex;

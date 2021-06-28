@@ -406,6 +406,9 @@
 	margin-top: 150px;
 	text-align: center;
 }
+.box-shad {
+	box-shadow: 0 15px 34px rgb(40 42 53 / 29%);
+}
 .pricing_annually_header {
 	border: 2px solid #ebebeb;
 	width: fit-content;
